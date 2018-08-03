@@ -14,5 +14,6 @@ p {
   color: #191970;
   text-align: center
 }
-grid: none|grid-template-rows / grid-template-columns|grid-template-areas|grid-template-rows / [grid-auto-flow] grid-auto-columns|[grid-auto-flow] grid-auto-rows / grid-template-columns
+.grid-container {
+  display: grid; 
 }
