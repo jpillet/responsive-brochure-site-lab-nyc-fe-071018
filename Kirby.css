@@ -14,6 +14,10 @@ p {
   color: #191970;
   text-align: center
 }
-.grid-container {
-  display: grid; 
-}
+div {
+    display: flex;
+    flex-flow: column-reverse wrap-reverse;
+    align-items: flex-end;
+    justify-content: space-around;
+    align-content: space-between;
+ }
