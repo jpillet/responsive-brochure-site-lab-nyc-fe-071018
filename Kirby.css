@@ -14,7 +14,7 @@ p {
   color: #191970;
   text-align: center
 }
-DIV {
+grid{
 .item1 { grid-area: header; }
 .item2 { grid-area: menu; }
 .item3 { grid-area: main; }
