@@ -15,7 +15,7 @@ p {
   text-align: center
 }
 div {
-    display: flex;
+    display: flexbox;
     flex-flow: column-reverse wrap-reverse;
     align-items: flex-end;
     justify-content: space-around;
